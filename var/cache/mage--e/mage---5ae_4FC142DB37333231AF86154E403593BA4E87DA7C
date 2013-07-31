@@ -1,0 +1,24 @@
+
+<div class="nav-container itemgrid itemgrid-6cols">
+	<div class="nav container clearer show-bg">
+    
+    	<div id="mobnav" class="grid-full">
+        	<a id="mobnav-trigger" href="">
+            	<div class="icon"><div class="line"></div><div class="line"></div><div class="line"></div></div>
+                <span>Menu</span>
+			</a>
+        </div>
+        
+        <ul class="accordion vertnav-top grid-full">
+			        </ul>
+    
+    	<ul id="nav" class="grid-full wide">
+        
+        		            <li id="nav-home-link" class="level0 level-top">
+            	                <a class="level-top" href="http://localhost/everest-shop.com/index.php/"><span>Home</span></a>
+                            </li>
+        
+		
+		        		</ul>
+	</div> <!-- end: nav -->
+</div> <!-- end: nav-container -->
